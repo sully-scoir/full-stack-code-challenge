@@ -1,5 +1,5 @@
 # Assignment
-Create an small app to keep track of a user's favorite pictures of dog breeds. 
+Create a small app to keep track of a user's favorite pictures of dog breeds. 
 
 ## Resources
 * Use this api as your data source: https://dog.ceo/dog-api/#all
@@ -9,7 +9,7 @@ Create an small app to keep track of a user's favorite pictures of dog breeds.
 
 ### As a User, I can log in
 * Accept a username and a password
-    * User sign up is optinal for this exercise, the user and their credentials can be seeded/hard-coded
+    * User sign up is optional for this exercise, the user and their credentials can be seeded/hard-coded
 
 ### As a User, I want the option to specify the breed for the next dog card
 * A typeahead of available breeds is provided
